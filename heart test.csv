@@ -1,0 +1,4 @@
+gender,age,hypertension,heart_disease,ever_married,work_type,Residence_type,avg_glucose_level,bmi,smoking_status
+male,32,0,1,yes,private,urban,200,36,2
+female,16,0,0,no,private,rural,180,23,1
+male,45,1,1,no,self,urban,220,38,0
